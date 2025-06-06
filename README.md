@@ -15,9 +15,7 @@ Desenvolvedor Java em formação, focado em back-end e com base sólida em tecno
 
 ⚙ Tecnologias e habilidades:
 
-Java (Orientação a Objetos)
-
-Spring Boot
+Java (Orientação a Objetos - Estudando ainda)
 
 HTML, CSS e JavaScript
 
