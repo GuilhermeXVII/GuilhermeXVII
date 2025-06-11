@@ -73,5 +73,5 @@ Sistema operacional: Ubuntu (Linux)
 ## Github Stats  
 ![GuilhermeXVII GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeXVII&show_icons=true&theme=github_dark&hide=prs,issues&custom_title=GitHub%20Stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeXVII&border=true&layout=compact&bg_color=000000&title_color=00ffcc&text_color=ffffff" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeXVII&border=true&layout=compact&bg_color=000000&title_color=00ffcc&text_color=ffffff" align="center" style="width: 100%" />
 
