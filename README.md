@@ -27,7 +27,7 @@ Sistema operacional: Ubuntu (Linux)
 
 
   
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="43%">
 
 
 
@@ -38,7 +38,7 @@ Sistema operacional: Ubuntu (Linux)
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="53%">
 
 
 
@@ -73,5 +73,5 @@ Sistema operacional: Ubuntu (Linux)
 ## Github Stats  
 ![GuilhermeXVII GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeXVII&show_icons=true&theme=github_dark&hide=prs,issues&custom_title=GitHub%20Stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeXVII&border=true&layout=compact&bg_color=000000&title_color=00ffcc&text_color=ffffff" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeXVII&border=true&layout=compact&bg_color=000000&title_color=00FF00&text_color=ffffff" align="center" style="width: 100%" />
 
