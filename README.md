@@ -24,11 +24,11 @@
     </tr>
     <tr>
       <td><em>HTML & CSS</em></td>
-      <td><em>construíndo lading page</em></td>
+      <td><em>construíndo landing page && <mark>Domínio básico</mark></em></td>
     </tr>
     <tr>
       <td><em>JavaScript</em></td>
-      <td><em>Básico <mark>concluído</mark></em></td>
+      <td><em><mark>Domínio básico</mark></em></td>
     </tr>
     <tr>
       <td><em>.lua</em></td>
@@ -47,11 +47,11 @@
     </tr>
     <tr>
       <td><em>Linux Mint(Distro atual)</em></td>
-      <td><em>Básico <mark>concluído</mark></em></td>
+      <td><em><mark>Domínio básico</mark></em></td>
     </tr>
     <tdbody>
       <td><em>Git && GitHub</em></td>
-      <td><em>Básico <mark>concluído</mark></em></td>
+      <td><em><mark>Domínio básico</mark></em></td>
     </tbody>
     <tfoot>
       <tr>
