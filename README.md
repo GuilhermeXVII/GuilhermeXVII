@@ -36,9 +36,8 @@
     </tr>
   </tbody>
 </table>
-<table>
-
-<table>
+<div align="center">
+  <table>
   <caption><Strong>Auxiliares</Strong></caption>
   <thead>
     <tr>
@@ -62,7 +61,7 @@
   </thead>
   
   </thead>
-</table>
+</div>
 
   
 </div>
