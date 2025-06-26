@@ -71,7 +71,7 @@
   
   <img src="https://github.com/user-attachments/assets/44baffb9-32e3-4fe9-a0ba-76637bfd7869" alt="" width="300"/>
   <img src="https://github.com/user-attachments/assets/0b3f54d8-1ac8-40b4-832c-0355eb833d3b" alt="" width="320"/>
-  <img src="https://github.com/user-attachments/assets/a5f27552-2a9c-41c1-ba4f-798436e1e16b" alt="" width="230"/>
+  <img src="https://github.com/user-attachments/assets/a5f27552-2a9c-41c1-ba4f-798436e1e16b" alt="" width="170"/>
 </p>
 
 
