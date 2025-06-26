@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=000000" alt="">
-<img src="https://img.shields.io/badge/Canvas-00C853?style=for-the-badge&logo=html5&logoColor=white" alt"">
+<img src="https://img.shields.io/badge/Canvas-00C853?style=for-the-badge&logo=html5&logoColor=white" alt="">
 
 <img src="https://github.com/user-attachments/assets/bb119daf-78a6-497a-b3dd-02898461e739" alt="" width="210"/>
 
