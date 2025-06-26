@@ -1,11 +1,41 @@
-![github-header-image](https://github.com/user-attachments/assets/5e626b2b-e4b1-42bd-9538-60c628e3829f)
+
+
 <div align="center">
+  
+![github-header-image](https://github.com/user-attachments/assets/96ee2682-fffd-43cb-be00-020e2d20655b)
 <header><h1>Sobre mim:</h1></header>
 </div>
 
 <em>Desenvolvedor <Strong><mark>Java</mark></Strong> em formação, focado em <Strong><mark>back-end</mark></Strong> e com base sólida em tecnologias web.</em>
 <br>
 <em>Buscando oportunidades para aplicar e expandir meus conhecimentos.</em>
+
+<div align="center">
+  <table>
+  <caption><Strong>Auxiliares</Strong></caption>
+  <thead>
+    <tr>
+      <td><Strong>Habilidades</Strong></td>
+      <td><Strong>Situação</Strong></td>
+    </tr>
+    <tr>
+      <td><em>Linux Mint(Distro atual)</em></td>
+      <td><em><mark>Domínio básico</mark></em></td>
+    </tr>
+    <tdbody>
+      <td><em>Git && GitHub</em></td>
+      <td><em><mark>Domínio básico</mark></em></td>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td><em>Inglês</em></td>
+        <td><em>Estudando o <mark> básico</mark> ainda</em></td>
+      </tr>
+    </tfoot>
+  </thead>
+  
+  </thead>
+</div>
 
 <div align = "center">
 <h3>Tecnologias e habilidades:</h3>
@@ -36,32 +66,7 @@
     </tr>
   </tbody>
 </table>
-<div align="center">
-  <table>
-  <caption><Strong>Auxiliares</Strong></caption>
-  <thead>
-    <tr>
-      <td><Strong>Habilidades</Strong></td>
-      <td><Strong>Situação</Strong></td>
-    </tr>
-    <tr>
-      <td><em>Linux Mint(Distro atual)</em></td>
-      <td><em><mark>Domínio básico</mark></em></td>
-    </tr>
-    <tdbody>
-      <td><em>Git && GitHub</em></td>
-      <td><em><mark>Domínio básico</mark></em></td>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td><em>Inglês</em></td>
-        <td><em>Estudando o <mark> básico</mark> ainda</em></td>
-      </tr>
-    </tfoot>
-  </thead>
-  
-  </thead>
-</div>
+
 
   
 </div>
