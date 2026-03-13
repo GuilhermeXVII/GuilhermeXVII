@@ -1,5 +1,4 @@
 <div align="center">
-.
 ![github-header-image](https://github.com/user-attachments/assets/96ee2682-fffd-43cb-be00-020e2d20655b)
 
 # Sobre mim:
