@@ -1,13 +1,4 @@
 <div align="center">
-![github-header-image](https://github.com/user-attachments/assets/96ee2682-fffd-43cb-be00-020e2d20655b)
-
-# Sobre mim:
-
-<em>Desenvolvedor <strong><mark>Java</mark></strong> em formação, focado em <strong><mark>back-end</mark></strong> e com base sólida em tecnologias web.</em>  
-<em>Buscando oportunidades para aplicar e expandir meus conhecimentos.</em>  
-<em>Atualmente estou estudando Java.</em>
-
----
 
 ### Contatos:
 
